@@ -1,0 +1,5 @@
+id,claim,status,evidence,date,owner,notes
+C-1,"Our test suite runs in under a minute on a laptop",verified,https://example.com/ci-run-123,2026-01-15,Alex,
+C-2,"Most teams will adopt the new workflow within a month",assumed,,2026-01-15,Sam,planning figure only
+C-3,"A simpler setup is better for small teams",opinion,,2026-01-15,Alex,
+C-4,"Setup takes five minutes",retracted,,2026-01-20,Sam,"replaced by C-1; first-time setup took 25 minutes"
