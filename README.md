@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 fyv.ai Ltd.
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # claim-evidence-kit
 
 Plain templates for keeping public claims honest: write the test down before you run it, keep the failures, and only say what you can point to.
@@ -31,3 +36,11 @@ Exit code `0` when the register is clean, `1` with a list of problems otherwise.
 A result you cannot check is not a result yet. Writing the pass bar down first stops it moving after the numbers arrive, and keeping the failures stops the same dead end being explored twice.
 
 Apache-2.0, see `LICENSE` and `NOTICE`.
+
+## Licence
+
+Copyright 2026 fyv.ai Ltd. Licensed under the [Apache License 2.0](LICENSE). Every file states its own licence in an SPDX header or in `REUSE.toml`, following the [REUSE](https://reuse.software/) specification.
+
+**Our promise:** code released here under Apache-2.0 will not be moved to a more restrictive licence.
+
+This repository is read-only: see [CONTRIBUTING.md](CONTRIBUTING.md). Report security issues privately as described in [SECURITY.md](SECURITY.md). The fyv name is covered by [TRADEMARKS.md](TRADEMARKS.md).

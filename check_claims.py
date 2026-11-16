@@ -1,3 +1,5 @@
+# SPDX-FileCopyrightText: 2026 fyv.ai Ltd.
+# SPDX-License-Identifier: Apache-2.0
 """check_claims: check a claims register CSV.
 
 Rules: every row has an id, a claim and a status from {verified, assumed, opinion, retracted};
